@@ -42,7 +42,7 @@ import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.filter.OncePerRequestFilter;
-import sun.plugin.liveconnect.SecurityContextHelper;
+//import sun.plugin.liveconnect.SecurityContextHelper;
 
 import javax.persistence.*;
 import javax.servlet.*;
